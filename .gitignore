@@ -1,0 +1,6 @@
+# JRA-VAN のデータは再配布が制限されているため、リポジトリに入れない
+data/
+output/
+sample_data/
+__pycache__/
+*.pyc
